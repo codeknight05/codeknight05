@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Khandelwal</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeknight05&label=Profile%20views&color=0e75b6&style=flat" alt="codeknight05" /> </p>
 
@@ -16,6 +16,8 @@
 - 📫 How to reach me **yash.ajay05@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Dd2GDezEyyt4bs_F1t88kb_U-gS6EpZ4/view?usp=sharing](https://drive.google.com/file/d/1Dd2GDezEyyt4bs_F1t88kb_U-gS6EpZ4/view?usp=sharing)
+
+- ⚡ Fun fact **I believe good UI design should be so intuitive that everybody and their grandma could deploy it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
