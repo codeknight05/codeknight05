@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/codeknight05?tab=repositories](https://github.com/codeknight05?tab=repositories)
 
-- 💬 Ask me about **react, gamedev in c#, AI/ML**
+- 💬 Ask me about **react, gamedev in unity, AI/ML**
 
 - 📫 How to reach me **yash.ajay05@gmail.com**
 
