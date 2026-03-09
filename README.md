@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeknight05" alt="codeknight05" /></a> </p>
 
-- 🔭 I’m currently working on [racingsim](https://github.com/codeknight05/racingsim)
+- 🔭 I’m currently working on [god_of_frames](https://github.com/codeknight05/god-of-frames)
 
 - 🌱 I’m currently learning **AWS, making simulators in motorsports**
 
